@@ -1,0 +1,84 @@
+{
+  "rooms": [
+    {
+      "location": "dilsukhangar",
+      "city": "hyderabd",
+      "gender": "male",
+      "rent": "5000",
+      "required members": "2",
+      "id": 1
+    },
+    {
+      "location": "dilsukhangarssss",
+      "city": "hyderabd",
+      "gender": "male",
+      "rent": "5000",
+      "required members": "2",
+      "id": 2
+    },
+    {
+      "location": "dilsukhangarssss",
+      "city": "hyderabds",
+      "gender": "male",
+      "rent": "50005",
+      "required members": "22",
+      "id": 3
+    },
+    {
+      "location": "saidabad",
+      "city": "singareni colony",
+      "gender": "female",
+      "rent": "3000",
+      "required members": "1",
+      "id": 4
+    },
+    {
+      "location": "saidabad",
+      "city": "singareni colony",
+      "gender": "female",
+      "rent": "3000",
+      "required members": "1",
+      "id": 5
+    },
+    {
+      "location": "sfsd",
+      "city": "fdssd",
+      "gender": "fdfs",
+      "rent": "fsfs",
+      "required members": "fsfs",
+      "id": 6
+    },
+    {
+      "location": "gxx",
+      "city": "xxfx",
+      "gender": "xfxfdx",
+      "rent": "fdfx",
+      "required members": "dfxdfdx",
+      "id": 7
+    },
+    {
+      "city": "dfjsdj",
+      "location": "dilsukhangar",
+      "gender": "sfksd.fsd",
+      "rent": "kxlfjsd",
+      "required members": "kmkfdf",
+      "id": 8
+    },
+    {
+      "location": "d",
+      "gender": "df",
+      "city": "df",
+      "rent": "df",
+      "required members": "fdfd",
+      "id": 9
+    },
+    {
+      "location": "Madhapur",
+      "city": "Hyderabad",
+      "gender": "Other",
+      "rent": "7000",
+      "required members": "4",
+      "id": 10
+    }
+  ]
+}
